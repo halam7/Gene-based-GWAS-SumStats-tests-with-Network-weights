@@ -1,2 +1,2 @@
 # Gene-based-GWAS-SumStats-tests-with-Network-weights
-Gene based GWAS SumStats tests with Network weights with some scripts attached
+Gene based GWAS SumStats tests with Network weights alignment, sats, and simulation attached.
